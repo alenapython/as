@@ -16,3 +16,4 @@ bober = Human(25, 210, "bobr")
 print(bober.name)
 print(bober.age)
 bober.say_bye()
+bober.age=10
